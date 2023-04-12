@@ -2,6 +2,7 @@
 using ApplicationCore.Models;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
+using System.Numerics;
 
 namespace WebAPI.Controllers;
 [ApiController]
@@ -37,23 +38,22 @@ public class QuizController: ControllerBase
             var answer = _service.SaveUserAnswerForQuiz(quizId, itemId, dto.UserId, dto.UserAnswer);
             return Created("", answer);
         }
-        catch (Exception)
+        catch (Exception e)
         {
-            return BadRequest();
+            return BadRequest(e.Message);
         }
     }
 
     [HttpGet, Produces("application/json")]
-    [Route("{quizId}/feedbacks")]
-    public FeedbackQuizDto GetFeedback(int quizId)
+    [Route("{quizId}/{userId}/feedbacks")]
+    public FeedbackQuizDto GetFeedback(int quizId, int userId)
     {
-        int userId = 1;
         var answers = _service.GetUserAnswersForQuiz(quizId, userId);
         //TODO: zdefiniuj mapper listy odpowiedzi na obiekt FeedbackQuizDto 
         return new FeedbackQuizDto()
         {
             QuizId = quizId,
-            UserId = 1,
+            UserId = userId,
             QuizItemsAnswers = answers.Select(i => new FeedbackQuizItemDto()
             {
                 Question = i.QuizItem.Question,
