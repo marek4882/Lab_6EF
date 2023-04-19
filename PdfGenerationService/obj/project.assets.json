@@ -5060,11 +5060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\PdfGenerationService\\PdfGenerationService.csproj",
+      "projectUniqueName": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\PdfGenerationService\\PdfGenerationService.csproj",
       "projectName": "PdfGenerationService",
-      "projectPath": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\PdfGenerationService\\PdfGenerationService.csproj",
+      "projectPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\PdfGenerationService\\PdfGenerationService.csproj",
       "packagesPath": "C:\\Users\\cwior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\PdfGenerationService\\obj\\",
+      "outputPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\PdfGenerationService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

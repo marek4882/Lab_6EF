@@ -298,11 +298,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
+      "projectUniqueName": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
       "projectName": "ConsoleGRPCClient",
-      "projectPath": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
+      "projectPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ConsoleGRPCClient\\ConsoleGRPCClient.csproj",
       "packagesPath": "C:\\Users\\cwior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ConsoleGRPCClient\\obj\\",
+      "outputPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ConsoleGRPCClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

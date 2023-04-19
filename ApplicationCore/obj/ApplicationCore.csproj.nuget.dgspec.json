@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {}
+    "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\cwior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cwior\\Source\\Repos\\wsei-backend-lab\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

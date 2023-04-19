@@ -10,3 +10,15 @@ C:\Users\cwior\Source\Repos\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\Ap
 C:\Users\cwior\Source\Repos\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
 C:\Users\cwior\Source\Repos\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
 C:\Users\cwior\Source\Repos\wsei-backend-lab\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\bin\Debug\net7.0\ApplicationCore.deps.json
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\bin\Debug\net7.0\ApplicationCore.dll
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\bin\Debug\net7.0\ApplicationCore.pdb
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ApplicationCore.AssemblyInfo.cs
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ApplicationCore.dll
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\refint\ApplicationCore.dll
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ApplicationCore.pdb
+C:\Users\cwior\Source\Repos\Lab_6EF\ApplicationCore\obj\Debug\net7.0\ref\ApplicationCore.dll
