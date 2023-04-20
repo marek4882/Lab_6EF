@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9IAouRd3/l7eJI1Q0I9/4levy74TPfwwo/qOp0/fkdT6kDl8U/3gHghhnoemVP1eYb+6I4gx3ZPa5lhI3k+zQ==",
+  "dgSpecHash": "7G3ri3N0aB9uTHs+nw42uogzOasJQpy9VCSmfno12G4VwqhtDdeYmVCUEnaTJJgAXimVqroZaChxY2pOGJ+eLg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\cwior\\source\\repos\\Lab_6EF\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cwior\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\cwior\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

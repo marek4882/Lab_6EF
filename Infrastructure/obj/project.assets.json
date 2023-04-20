@@ -3659,11 +3659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\cwior\\source\\repos\\Lab_6EF\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Users\\cwior\\source\\repos\\Lab_6EF\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\cwior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\cwior\\source\\repos\\Lab_6EF\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3685,8 +3685,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\Users\\cwior\\source\\repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\cwior\\source\\repos\\Lab_6EF\\ApplicationCore\\ApplicationCore.csproj"
             }
           }
         }

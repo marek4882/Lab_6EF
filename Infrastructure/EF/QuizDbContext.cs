@@ -20,7 +20,7 @@ namespace Infrastructure.EF
         {
             base.OnConfiguring(optionsBuilder);
             optionsBuilder.UseSqlServer(
-                "DATA SOURCE=LAPTOP-TKOLKLP2\\SQLEXPRESS;DATABASE=Lab6EF2;Integrated Security=true;TrustServerCertificate=True");
+                "DATA SOURCE=LAPTOP-TKOLKLP2\\SQLEXPRESS;DATABASE=Lab6EF3;Integrated Security=true;TrustServerCertificate=True");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

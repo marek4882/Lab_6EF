@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdmWkM8ZAt2oB2phTiH9gv5LUR8WgXF6zApNGC0xsZ5whmt34iZ0RiSZOc2Kj2Jm0LMiEpd8lmbt/V1UWvJQiA==",
+  "dgSpecHash": "IXtMdyI2mcrzxGkt+ukzPlNfkKQj5Oehs2Xno2YyAw3dpkic80KThMOIMFj4gjrL6opQD0bpgtpr6JBueFxYqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cwior\\Source\\Repos\\Lab_6EF\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\cwior\\source\\repos\\Lab_6EF\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cwior\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\cwior\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
